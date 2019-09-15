@@ -15,7 +15,7 @@ public class ListDemo {
         System.out.println("线程不安全的List");
 //        method01();
 
-        System.out.println("同步类容器 线程安全的List");
+        System.out.println("同步类list容器 线程安全的List");
 //        method02();
 
         System.out.println("Collections工具类将线程不安全的容器转变为同步类容器");
