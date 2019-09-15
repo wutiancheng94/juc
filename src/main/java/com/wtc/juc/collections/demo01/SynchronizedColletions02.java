@@ -18,6 +18,10 @@ public class SynchronizedColletions02 {
         list.add("2");
         list.add("3");
 
-        list.m1
+        m1(list);
+    }
+
+    private static void m1(List<Object> list) {
+
     }
 }
